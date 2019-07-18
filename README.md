@@ -6,11 +6,11 @@
 
 # 一些例子
 
-<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/1.gif' />
-<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/2.gif' />
-<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/3.gif' />
-<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/4.gif' />
-<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/5.gif' />
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/1.gif' />
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/2.gif' />
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/3.gif' />
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/4.gif' />
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/5.gif' />
 
 # How to Contribute
 
