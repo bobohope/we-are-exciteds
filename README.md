@@ -4,7 +4,15 @@
 - 欢迎贡献
 - #膜蛤#江泽民#长者#续命＃+1s#苟利国家生死以#人生的经验#香港记者#小背篓#华莱士#钦定#董先生#too young too simeple#naive#excited#七国语言#谈笑风生#琴棋书画
 
+# 一些例子
+
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/1.gif' />
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/2.gif' />
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/3.gif' />
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/4.gif' />
+<img height='100px' style='height:100px;' src='https://github.com/bobohope/we-are-exciteds/blob/master/stickers/gif/5.gif' />
+
 # How to Contribute
 
-- 按照文件种类后缀名整理，比如jpg 图片应该存到imgs/jpg文件夹里面，然后按照123456数字排序。
-- 表情放在另外的一个目录下面。
+- 按照文件种类后缀名整理，比如 `jpg` 图片应该存到 `imgs/jpg` 文件夹里面，然后按照123456数字排序。
+- 表情放在 `/stickers` 目录下面。
